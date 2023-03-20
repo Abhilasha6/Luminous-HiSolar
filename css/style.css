@@ -297,7 +297,7 @@
   }
   
   #galaxy {
-    background-image: url(../img/galaxy-bg.jpg);
+    background-image: url(../img/earth-ge5980c4a9_1920.jpg);
     background-size: cover;
     transform-style: flat;
     height: 140vmax;
@@ -416,7 +416,7 @@
   
   /* Solar System section */
   .solar-system-container {
-    background-image: url(../img/bg.jpg);
+    background-image: url(../img/earth-ge5980c4a9_1920.jpg);
     background-size: cover;
     transform-style: flat;
     background-color: rgba(0,0,0,.5);
@@ -740,41 +740,44 @@
     animation: bounce 5s infinite;
   }   
   .card1 {
-    background-image: url(../img/mesh1.png);
-    color: rgb(37, 7, 0);
+    background-image: url(../img/space-g3791dc615_1920.jpg);
+    color: rgb(255, 252, 209);
   }
   .card2 {
-    background-image: url(../img/mesh2.png);
-    color: rgb(2, 26, 71);
+    background-image: url(../img/galaxy-bg.jpg);
+    color: rgb(167, 188, 227);
   }
   .card3 {
-    background-image: url(../img/mesh3.png);
+    background-image: url(../img/stars-g5a31dbd75_1920.jpg);
     color: rgb(255, 255, 255);
   }
   .card4 {
-    background-image: url(../img/mesh4.png);
-    color: rgb(0, 0, 0);
+    background-image: url(../img/pexels-alexandre-p-junior-7736159.jpg);
+    color: rgb(154, 210, 235);
   }
   .card5 {
-    background-image: url(../img/mesh5.png);
-    color: rgb(63, 63, 63);
+    background-image: url(../img/pexels-free-nature-stock-1005309.jpg);
+    color: rgb(185, 179, 179);
   }
   .card6 {
-    background-image: url(../img/mesh6.png);
+    background-image: url(../img/mars.jpg);
+    color: rgb(255, 192, 192);
   }
   .card7 {
-    background-image: url(../img/mesh7.png);
+    background-image: url(../img/pexels-hikmet-a-6894943.jpg);
+    color: rgb(255, 219, 164);
   }
   .card8 {
-    background-image: url(../img/mesh8.png);
-    color: rgb(73, 62, 0);
+    background-image: url(../img/ursa-major-ursa-minor-constellations.jpg);
+    color: rgb(248, 254, 230);
   }
   .card9 {
-    background-image: url(../img/mesh9.png);
-    color: rgb(0, 78, 92);
+    background-image: url(../img/stars-gaea05887c_1920.jpg);
+    color: rgb(181, 244, 255);
   }
   .card10 {
-    background-image: url(../img/mesh10.png);
+    background-image: url(../img/starfield-gd31e9f4f1_1920.jpg);
+    color: rgb(168, 190, 255);
   }
   .card11 {
     background: #000;

@@ -27,7 +27,8 @@
   
   body {
     font-family: var(--font-space-grotesk);
-    background-color: var(--main-background);
+    /* background-color: var(--main-background); */
+    background-image: url(../img/pexels-alexandre-p-junior-7736158.jpg);
     color: var(--text-color);
   }
   
@@ -421,6 +422,7 @@
     transform-style: flat;
     background-color: rgba(0,0,0,.5);
     background-blend-mode: multiply;
+    height: 200vh;
   }
   
   input {
@@ -740,7 +742,7 @@
     animation: bounce 5s infinite;
   }   
   .card1 {
-    background-image: url(../img/space-g3791dc615_1920.jpg);
+    background-image: url(../img/pexels-antonio-moura-10392692.jpg);
     color: rgb(255, 252, 209);
   }
   .card2 {
@@ -783,6 +785,15 @@
     background: #000;
   }
   
+.adv-solar{
+  font-size: 15px;
+  /* width: 1000px; */
+  /* margin-top: 20px; */
+  /* font-weight: bold; */
+  cursor: default;
+  /* transform: translate3d(-50px, 0, 0); */
+}
+
   #sun_card:checked~main .card1 {
     transform: translateZ(10px);
   }
@@ -1321,18 +1332,5 @@
     50%  {transform: translate(0px,15px);}
     100%  {transform: translate(0px,-15px);}
   }
-  Footer
-  © 2023 GitHub, Inc.
-  Footer navigation
-  Terms
-  Privacy
-  Security
-  Status
-  Docs
-  Contact GitHub
-  Pricing
-  API
-  Training
-  Blog
-  About
+
   
